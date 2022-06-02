@@ -4,7 +4,7 @@ Need a color chosen? Can't choose? Use this random color picker!
 <br>
 <br>...
 <br>
-<br>nose.
+<br><a href="https://fruhd.github.io/NOSE/">nose</a>.
 <br>
 <br>
 <br>From the creative genius of:
